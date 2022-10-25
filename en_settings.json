@@ -1,0 +1,12 @@
+{
+  "application": {
+      "title": "Monitor Tool",
+      "version": 0.01,
+      "geometry": "950x700"
+  },
+
+  "settings": {
+
+  }
+
+}
